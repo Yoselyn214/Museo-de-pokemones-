@@ -8,7 +8,7 @@ de código:
 
       platform = Entity(model="plane", collider="mesh",texture="piso", scale=(250,250,300), position=(0,-11,0))
 
-* Para hacer el museo utilizamos:
+* Para hacer el museo importamos lo siguiente:
 
       from ursina import *
       from ursina.prefabs.first_person_controller import FirstPersonController
@@ -45,7 +45,7 @@ de código:
       Entity(model="cube", scale=(1,60,40), collider="mesh",texture="cartaABSOL",position=(-120,30,50))
       Entity(model="cube", scale=(1,60,40), collider="mesh",texture="cartaRIOLU",position=(-120,30,100))
 
-* Para hacer la funcion para salir del juego:
+* Para hacer la función para salir del juego:
 
       def input(key):
         if key == 'escape':
