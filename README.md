@@ -9,7 +9,7 @@ de pokemones, donde la persona que ejecute el programa podra observar los pokemo
 *  Para hacer el piso del museo utilizamos las siguientes lineas 
 de código:
 
-      platform = Entity(model="plane", collider="mesh",texture="piso", scale=(250,250,300), position=(0,-11,0))
+       platform = Entity(model="plane", collider="mesh",texture="piso", scale=(250,250,300), position=(0,-11,0))
 
 * ✅ Para hacer el museo importamos lo siguiente:
 
