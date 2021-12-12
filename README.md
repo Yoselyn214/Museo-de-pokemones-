@@ -3,7 +3,7 @@
 
 🤓💻 En esta oportunidad para nuestro proyecto de Ursina hicimos un museo
 de pokemones, donde la persona que ejecute el programa podra observar los pokemones que hemos realizado a base de pixeles  en el espacio que hemos creado, es decir, un museo virtual.
-🙌🌈Las artistas y fundadoras del museo "POKEMON" son:
+*🙌🌈Las artistas y fundadoras del museo "POKEMON" son:
 
       Miranda Chirinos, Yoselyn Victoria 
       Rojas Terrones, Janne Andrea 
