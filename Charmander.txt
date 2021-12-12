@@ -1,0 +1,266 @@
+Coordenadas de Charmander :)
+
+
+Entity(model='cube', color=color.black, position=(120, 0, 120))
+Entity(model='cube', color=color.black, position=(120, 1, 120))
+Entity(model='cube', color=color.black, position=(120, 2, 120))
+
+Entity(model='cube', color=color.black, position=(119, 3, 120))
+Entity(model='cube', color=color.black, position=(119, -1, 120))
+
+Entity(model='cube', color=color.black, position=(118, -2, 120))
+Entity(model='cube', color=color.black, position=(118, 4, 120))
+Entity(model='cube', color=color.black, position=(118, 5, 120))
+
+Entity(model='cube', color=color.black, position=(117, -2, 120))
+Entity(model='cube', color=color.black, position=(117, 6, 120))
+
+Entity(model='cube', color=color.black, position=(116, -6, 120))
+Entity(model='cube', color=color.black, position=(116, -3, 120))
+Entity(model='cube', color=color.black, position=(116, 7, 120))
+
+Entity(model='cube', color=color.black, position=(115, -7, 120))
+Entity(model='cube', color=color.black, position=(115, -5, 120))
+Entity(model='cube', color=color.black, position=(115, -4, 120))
+Entity(model='cube', color=color.black, position=(115, -3, 120))
+Entity(model='cube', color=color.black, position=(115, 1, 120))
+Entity(model='cube', color=color.black, position=(115, 2, 120))
+Entity(model='cube', color=color.black, position=(115, 7, 120))
+
+Entity(model='cube', color=color.black, position=(114, -7, 120))
+Entity(model='cube', color=color.black, position=(114, -6, 120))
+Entity(model='cube', color=color.black, position=(114, -3, 120))
+Entity(model='cube', color=color.black, position=(114, 1, 120))
+Entity(model='cube', color=color.black, position=(114, 2, 120))
+Entity(model='cube', color=color.black, position=(114, 3, 120))
+Entity(model='cube', color=color.black, position=(114, 7, 120))
+
+Entity(model='cube', color=color.black, position=(113, -7, 120))
+Entity(model='cube', color=color.black, position=(113, 7, 120))
+
+Entity(model='cube', color=color.black, position=(112, -8, 120))
+Entity(model='cube', color=color.black, position=(112, -4, 120))
+Entity(model='cube', color=color.black, position=(112, -5, 120))
+Entity(model='cube', color=color.black, position=(112, 6, 120))
+
+Entity(model='cube', color=color.black, position=(111, -9, 120))
+Entity(model='cube', color=color.black, position=(111, -8, 120))
+Entity(model='cube', color=color.black, position=(111, -3, 120))
+Entity(model='cube', color=color.black, position=(111, -3, 120))
+Entity(model='cube', color=color.black, position=(111, 4, 120))
+Entity(model='cube', color=color.black, position=(111, 5, 120))
+Entity(model='cube', color=color.black, position=(111, -5, 120))
+
+
+Entity(model='cube', color=color.black, position=(110, -10, 120))
+Entity(model='cube', color=color.black, position=(110, -8, 120))
+Entity(model='cube', color=color.black, position=(110, -5, 120))
+Entity(model='cube', color=color.black, position=(110, 2, 120))
+Entity(model='cube', color=color.black, position=(110, 3, 120))
+
+Entity(model='cube', color=color.black, position=(109, -10, 120))
+Entity(model='cube', color=color.black, position=(109, 0, 120))
+Entity(model='cube', color=color.black, position=(109, 1, 120))
+
+Entity(model='cube', color=color.black, position=(108, -10, 120))
+Entity(model='cube', color=color.black, position=(108, -8, 120))
+Entity(model='cube', color=color.black, position=(108, -1, 120))
+
+Entity(model='cube', color=color.black, position=(107, -10, 120))
+Entity(model='cube', color=color.black, position=(107, -9, 120))
+Entity(model='cube', color=color.black, position=(107, -8, 120))
+Entity(model='cube', color=color.black, position=(107, -7, 120))
+Entity(model='cube', color=color.black, position=(107, -3, 120))
+Entity(model='cube', color=color.black, position=(107, -2, 120))
+
+Entity(model='cube', color=color.black, position=(106, -6, 120))
+Entity(model='cube', color=color.black, position=(106, -5, 120))
+Entity(model='cube', color=color.black, position=(106, -4, 120))
+Entity(model='cube', color=color.black, position=(106, -3, 120))
+
+Entity(model='cube', color=color.black, position=(105, -6, 120))
+Entity(model='cube', color=color.black, position=(105, -2, 120))
+Entity(model='cube', color=color.black, position=(105, 1, 120))
+Entity(model='cube', color=color.black, position=(105, 2, 120))
+Entity(model='cube', color=color.black, position=(105, 3, 120))
+
+Entity(model='cube', color=color.black, position=(104, -5, 120))
+Entity(model='cube', color=color.black, position=(104, -1, 120))
+Entity(model='cube', color=color.black, position=(104, 0, 120))
+Entity(model='cube', color=color.black, position=(104, 4, 120))
+Entity(model='cube', color=color.black, position=(104, 5, 120))
+Entity(model='cube', color=color.black, position=(104, 6, 120))
+
+Entity(model='cube', color=color.black, position=(103, -4, 120))
+Entity(model='cube', color=color.black, position=(103, -3, 120))
+Entity(model='cube', color=color.black, position=(103, 7, 120))
+
+Entity(model='cube', color=color.black, position=(102, -2, 120))
+Entity(model='cube', color=color.black, position=(102, -1, 120))
+Entity(model='cube', color=color.black, position=(102, 0, 120))
+Entity(model='cube', color=color.black, position=(102, 6, 120))
+
+Entity(model='cube', color=color.black, position=(101, 0, 120))
+Entity(model='cube', color=color.black, position=(101, 4, 120))
+Entity(model='cube', color=color.black, position=(101, 5, 120))
+
+Entity(model='cube', color=color.black, position=(100, 1, 120))
+Entity(model='cube', color=color.black, position=(100, 2, 120))
+Entity(model='cube', color=color.black, position=(100, 3, 120))
+
+
+Entity(model='cube', color=color.white, position=(115, -6, 120))
+Entity(model='cube', color=color.white, position=(115, 3, 120))
+
+Entity(model='cube', color=color.white, position=(110, -9, 120))
+Entity(model='cube', color=color.white, position=(108, -9, 120))
+
+Entity(model='cube', color=color.red, position=(104, 1, 120))
+Entity(model='cube', color=color.red, position=(104, 2, 120))
+Entity(model='cube', color=color.red, position=(104, 3, 120))
+
+Entity(model='cube', color=color.red, position=(103, 2, 120))
+Entity(model='cube', color=color.red, position=(103, 3, 120))
+Entity(model='cube', color=color.red, position=(103, 4, 120))
+Entity(model='cube', color=color.red, position=(103, 5, 120))
+Entity(model='cube', color=color.red, position=(103, 6, 120))
+Entity(model='cube', color=color.red, position=(102, 3, 120))
+Entity(model='cube', color=color.red, position=(102, 4, 120))
+Entity(model='cube', color=color.red, position=(102, 5, 120))
+Entity(model='cube', color=color.red, position=(101, 1, 120))
+Entity(model='cube', color=color.red, position=(101, 2, 120))
+Entity(model='cube', color=color.red, position=(101, 3, 120))
+
+Entity(model='cube', color=color.yellow, position=(114, -5, 120))
+Entity(model='cube', color=color.yellow, position=(114, -4, 120))
+
+Entity(model='cube', color=color.yellow, position=(113, -6, 120))
+Entity(model='cube', color=color.yellow, position=(113, -5, 120))
+Entity(model='cube', color=color.yellow, position=(113, -4, 120))
+
+Entity(model='cube', color=color.yellow, position=(112, -7, 120))
+Entity(model='cube', color=color.yellow, position=(112, -6, 120))
+Entity(model='cube', color=color.yellow, position=(112, -5, 120))
+
+Entity(model='cube', color=color.yellow, position=(111, -7, 120))
+Entity(model='cube', color=color.yellow, position=(111, -6, 120))
+
+Entity(model='cube', color=color.yellow, position=(103, 0, 120))
+Entity(model='cube', color=color.yellow, position=(103, 1, 120))
+
+Entity(model='cube', color=color.yellow, position=(102, 1, 120))
+Entity(model='cube', color=color.yellow, position=(102, 2, 120))
+
+
+Entity(model='cube', color=color.orange, position=(119, 0, 120))
+Entity(model='cube', color=color.orange, position=(119, 1, 120))
+Entity(model='cube', color=color.orange, position=(119, 2, 120))
+
+Entity(model='cube', color=color.orange, position=(118, -1, 120))
+Entity(model='cube', color=color.orange, position=(118, 0, 120))
+Entity(model='cube', color=color.orange, position=(118, 1, 120))
+Entity(model='cube', color=color.orange, position=(118, 2, 120))
+Entity(model='cube', color=color.orange, position=(118, 3, 120))
+
+Entity(model='cube', color=color.orange, position=(117, -1, 120))
+Entity(model='cube', color=color.orange, position=(117, 0, 120))
+Entity(model='cube', color=color.orange, position=(117, 1, 120))
+Entity(model='cube', color=color.orange, position=(117, 2, 120))
+Entity(model='cube', color=color.orange, position=(117, 3, 120))
+Entity(model='cube', color=color.orange, position=(117, 4, 120))
+Entity(model='cube', color=color.orange, position=(117, 5, 120))
+
+
+Entity(model='cube', color=color.orange, position=(116, -2, 120))
+Entity(model='cube', color=color.orange, position=(116, -1, 120))
+Entity(model='cube', color=color.orange, position=(116, 0, 120))
+Entity(model='cube', color=color.orange, position=(116, 1, 120))
+Entity(model='cube', color=color.orange, position=(116, 2, 120))
+Entity(model='cube', color=color.orange, position=(116, 3, 120))
+Entity(model='cube', color=color.orange, position=(116, 4, 120))
+Entity(model='cube', color=color.orange, position=(116, 5, 120))
+Entity(model='cube', color=color.orange, position=(116, 6, 120))
+
+Entity(model='cube', color=color.orange, position=(115, -2, 120))
+Entity(model='cube', color=color.orange, position=(115, -1, 120))
+Entity(model='cube', color=color.orange, position=(115, 0, 120))
+Entity(model='cube', color=color.orange, position=(115, 4, 120))
+Entity(model='cube', color=color.orange, position=(115, 5, 120))
+Entity(model='cube', color=color.orange, position=(115, 6, 120))
+
+Entity(model='cube', color=color.orange, position=(114, -2, 120))
+Entity(model='cube', color=color.orange, position=(114, -1, 120))
+Entity(model='cube', color=color.orange, position=(114, 0, 120))
+Entity(model='cube', color=color.orange, position=(114, 4, 120))
+Entity(model='cube', color=color.orange, position=(114, 5, 120))
+Entity(model='cube', color=color.orange, position=(114, 6, 120))
+Entity(model='cube', color=color.orange, position=(113, -3, 120))
+Entity(model='cube', color=color.orange, position=(113, -2, 120))
+Entity(model='cube', color=color.orange, position=(113, -1, 120))
+Entity(model='cube', color=color.orange, position=(113, 0, 120))
+Entity(model='cube', color=color.orange, position=(113, 1, 120))
+Entity(model='cube', color=color.orange, position=(113, 2, 120))
+Entity(model='cube', color=color.orange, position=(113, 3, 120))
+Entity(model='cube', color=color.orange, position=(113, 4, 120))
+Entity(model='cube', color=color.orange, position=(113, 5, 120))
+Entity(model='cube', color=color.orange, position=(113, 6, 120))
+
+Entity(model='cube', color=color.orange, position=(112, -3, 120))
+Entity(model='cube', color=color.orange, position=(112, -2, 120))
+Entity(model='cube', color=color.orange, position=(112, -1, 120))
+Entity(model='cube', color=color.orange, position=(112, 0, 120))
+Entity(model='cube', color=color.orange, position=(112, 1, 120))
+Entity(model='cube', color=color.orange, position=(112, 2, 120))
+Entity(model='cube', color=color.orange, position=(112, 3, 120))
+Entity(model='cube', color=color.orange, position=(112, 4, 120))
+Entity(model='cube', color=color.orange, position=(112, 5, 120))
+Entity(model='cube', color=color.orange, position=(111, -4, 120))
+Entity(model='cube', color=color.orange, position=(111, -2, 120))
+Entity(model='cube', color=color.orange, position=(111, -1, 120))
+Entity(model='cube', color=color.orange, position=(111, 0, 120))
+Entity(model='cube', color=color.orange, position=(111, 1, 120))
+Entity(model='cube', color=color.orange, position=(111, 2, 120))
+Entity(model='cube', color=color.orange, position=(111, 3, 120))
+
+Entity(model='cube', color=color.orange, position=(110, -7, 120))
+Entity(model='cube', color=color.orange, position=(110, -6, 120))
+Entity(model='cube', color=color.orange, position=(110, -4, 120))
+Entity(model='cube', color=color.orange, position=(110, -3, 120))
+Entity(model='cube', color=color.orange, position=(110, -2, 120))
+Entity(model='cube', color=color.orange, position=(110, -1, 120))
+Entity(model='cube', color=color.orange, position=(110, 0, 120))
+Entity(model='cube', color=color.orange, position=(110, 1, 120))
+
+Entity(model='cube', color=color.orange, position=(109, -9, 120))
+Entity(model='cube', color=color.orange, position=(109, -8, 120))
+Entity(model='cube', color=color.orange, position=(109, -7, 120))
+Entity(model='cube', color=color.orange, position=(109, -6, 120))
+Entity(model='cube', color=color.orange, position=(109, -5, 120))
+Entity(model='cube', color=color.orange, position=(109, -4, 120))
+Entity(model='cube', color=color.orange, position=(109, -3, 120))
+Entity(model='cube', color=color.orange, position=(109, -2, 120))
+Entity(model='cube', color=color.orange, position=(109, -1, 120))
+
+Entity(model='cube', color=color.orange, position=(108, -7, 120))
+Entity(model='cube', color=color.orange, position=(108, -6, 120))
+Entity(model='cube', color=color.orange, position=(108, -5, 120))
+Entity(model='cube', color=color.orange, position=(108, -4, 120))
+Entity(model='cube', color=color.orange, position=(108, -3, 120))
+Entity(model='cube', color=color.orange, position=(108, -2, 120))
+
+Entity(model='cube', color=color.orange, position=(107, -6, 120))
+Entity(model='cube', color=color.orange, position=(107, -5, 120))
+Entity(model='cube', color=color.orange, position=(107, -4, 120))
+
+Entity(model='cube', color=color.orange, position=(105, -5, 120))
+Entity(model='cube', color=color.orange, position=(105, -4, 120))
+Entity(model='cube', color=color.orange, position=(105, -3, 120))
+
+Entity(model='cube', color=color.orange, position=(104, -4, 120))
+Entity(model='cube', color=color.orange, position=(104, -3, 120))
+Entity(model='cube', color=color.orange, position=(104, -2, 120))
+
+Entity(model='cube', color=color.orange, position=(103, -2, 120))
+Entity(model='cube', color=color.orange, position=(103, -1, 120))
+
+
