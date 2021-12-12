@@ -1,8 +1,8 @@
 Coordenadas de Pikachu :)
 
-Entity(model='cube', color=color.black, position=(0,6,0),)
-Entity(model='cube', color=color.black, position=(1,6,0),)
-Entity(model='cube', color=color.black, position=(1,5,0),)
+Entity(model='cube', color=color.black, position=(0,6,0))
+Entity(model='cube', color=color.black, position=(1,6,0))
+Entity(model='cube', color=color.black, position=(1,5,0))
 Entity(model='cube', color=color.yellow, position=(2,5,0))
 Entity(model='cube', color=color.yellow, position=(3,5,0))
 Entity(model='cube', color=color.yellow, position=(4,5,0))
