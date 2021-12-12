@@ -4,7 +4,7 @@
 🤓💻 En esta oportunidad para nuestro proyecto de Ursina hicimos un museo
 de pokemones, donde la persona que ejecute el programa podra observar los pokemones que hemos realizado a base de pixeles  en el espacio que hemos creado, es decir, un museo virtual.
 
-![This is an image](https://pa1.narvii.com/6350/fde0820faf2c502e676e125092ce004175ebf80f_hq.gif)
+![Portada de Facebook 851x315 px](https://user-images.githubusercontent.com/91160075/145697622-8880c4c3-8c37-461f-afd1-ec83ad32b29a.gif)
 
 *  Para hacer el piso del museo utilizamos las siguientes lineas 
 de código:
