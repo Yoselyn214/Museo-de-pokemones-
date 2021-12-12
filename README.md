@@ -1,9 +1,8 @@
 # Museo de pokemones
 ---------------------
 
-En esta oportunidad para nuestro proyecto de Ursina hicimos un museo
-de pokemones, donde la persona que ejecute el programa podra ver 
-el museo y los pokemones a base de pixeles.
+😄 En esta oportunidad para nuestro proyecto de Ursina hicimos un museo
+de pokemones, donde la persona que ejecute el programa podra observar los pokemones que hemos realizado a base de pixeles  en el espacio que hemos creado, es decir, un museo virtual.
 
 ![This is an image](https://pa1.narvii.com/6350/fde0820faf2c502e676e125092ce004175ebf80f_hq.gif)
 
@@ -62,5 +61,13 @@ de código:
 * Para la puerta del museo:
 
       Entity(model="puerta.obj", scale=(2.5,2.5,0.5), collider="mesh", color = color.black, position=(1,-20,-135))
+      
+* Integrantes:
+
+      Miranda Chirinos, Yoselyn Victoria 
+      Rojas Terrones, Janne Andrea 
+      Merino Miranda, Lady Anallely
+      Alvarez Flores, Irán María 
+      
 
 
