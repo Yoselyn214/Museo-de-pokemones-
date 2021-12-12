@@ -6,7 +6,7 @@ de pokemones, donde la persona que ejecute el programa podra observar los pokemo
 
 ![This is an image](https://pa1.narvii.com/6350/fde0820faf2c502e676e125092ce004175ebf80f_hq.gif)
 
-* ✅ Para hacer el piso del museo utilizamos las siguientes lineas 
+*  Para hacer el piso del museo utilizamos las siguientes lineas 
 de código:
 
        platform = Entity(model="plane", collider="mesh",texture="piso", scale=(250,250,300), position=(0,-11,0))
@@ -62,6 +62,12 @@ de código:
 
       Entity(model="puerta.obj", scale=(2.5,2.5,0.5), collider="mesh", color = color.black, position=(1,-20,-135))
       
+      
+      
+* 📂 *Las coordenadas de cada pokemon y personaje pixeleado han sido adjuntadas como archivos **.txt** en el README.md*
+
+
+
 * 📝Integrantes:
 
       Miranda Chirinos, Yoselyn Victoria 
@@ -69,5 +75,3 @@ de código:
       Merino Miranda, Lady Anallely
       Alvarez Flores, Irán María 
       
-
-
