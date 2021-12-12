@@ -1,4 +1,4 @@
-# Museo de pokemones
+# _Museo de pokemones_
 ---------------------
 
 🤓💻 En esta oportunidad para nuestro proyecto de Ursina hicimos un museo
