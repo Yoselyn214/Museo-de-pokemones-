@@ -1,6 +1,6 @@
 # Imagenes de la pared del frente
 
--![cartaCHARMENDAR](https://user-images.githubusercontent.com/91160075/145697814-8ea93cba-539e-40fb-9a84-2d78df46448d.jpeg)
+![cartaCHARMENDAR](https://user-images.githubusercontent.com/91160075/145697814-8ea93cba-539e-40fb-9a84-2d78df46448d.jpeg)
 
 ![cartaPIKACHU](https://user-images.githubusercontent.com/91160075/145697816-83298b44-5577-4808-b32b-427462a289c4.jpg)
 
