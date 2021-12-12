@@ -74,10 +74,4 @@ de código:
 
 
 
-* 📝Integrantes:
-
-      Miranda Chirinos, Yoselyn Victoria 
-      Rojas Terrones, Janne Andrea 
-      Merino Miranda, Lady Anallely
-      Alvarez Flores, Irán María 
       
