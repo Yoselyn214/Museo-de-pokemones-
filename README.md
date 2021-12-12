@@ -6,7 +6,7 @@ de pokemones, donde la persona que ejecute el programa podra observar los pokemo
 
 ![This is an image](https://pa1.narvii.com/6350/fde0820faf2c502e676e125092ce004175ebf80f_hq.gif)
 
-*  Para hacer el piso del museo utilizamos las siguientes lineas 
+* ✅ Para hacer el piso del museo utilizamos las siguientes lineas 
 de código:
 
        platform = Entity(model="plane", collider="mesh",texture="piso", scale=(250,250,300), position=(0,-11,0))
