@@ -2,8 +2,8 @@
 ---------------------
 
 En esta oportunidad para nuestro proyecto de Ursina hicimos un museo
-de pokemones donde la persona que ejecute el programa podra ver 
-el museo y los pokemones pixeleados.
+de pokemones, donde la persona que ejecute el programa podra ver 
+el museo y los pokemones a base de pixeles.
 
 ![This is an image](https://pa1.narvii.com/6350/fde0820faf2c502e676e125092ce004175ebf80f_hq.gif)
 
