@@ -6,7 +6,7 @@ de pokemones, donde la persona que ejecute el programa podra observar los pokemo
 
 ![Portada de Facebook 851x315 px](https://user-images.githubusercontent.com/91160075/145697622-8880c4c3-8c37-461f-afd1-ec83ad32b29a.gif)
 
-*  Para hacer el piso del museo utilizamos las siguientes lineas 
+* ✅ Para hacer el piso del museo utilizamos las siguientes lineas 
 de código:
 
        platform = Entity(model="plane", collider="mesh",texture="piso", scale=(250,250,300), position=(0,-11,0))
