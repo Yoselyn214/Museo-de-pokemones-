@@ -26,13 +26,13 @@ de código:
       Entity(model="cube", collider="mesh", texture="pared", scale=250, position=(-250,0,0))
       Entity(model="cube", collider="mesh", texture="pared", scale=250, position=(0,0,250))
 
-* ✅ Cartas para la pared del frente (escala largo,ancho y fondo):
+* ✅ Cartas para la pared del frente (escala largo, ancho y fondo):
 
       Entity(model="cube", scale=(40,50,1), collider="mesh", texture="cartaCHARMENDAR", position=(77,20,120))
       Entity(model="cube", scale=(40,50,1), collider="mesh", texture="cartaPIKACHU", position=(10,20,120))
       Entity(model="cube", scale=(40,50,1), collider="mesh", texture="cartaESCUAROL", position=(-50,20,120))
 
-* ✅ Cartas para la pared derecha (escala largo,ancho y fondo):
+* ✅ Cartas para la pared derecha (escala largo, ancho y fondo):
 
       Entity(model="cube", scale=(1,60,40), collider="mesh", texture="cartaGIBLE", position=(120,30,-100))
       Entity(model="cube", scale=(1,60,40), collider="mesh", texture="cartaAMONGUS", position=(120,30,-50))
