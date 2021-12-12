@@ -1,12 +1,12 @@
-## Imagenes de la pared del frente
+# Imagenes de la pared del frente
 
-![cartaCHARMENDAR](https://user-images.githubusercontent.com/91160075/145697814-8ea93cba-539e-40fb-9a84-2d78df46448d.jpeg)
+-![cartaCHARMENDAR](https://user-images.githubusercontent.com/91160075/145697814-8ea93cba-539e-40fb-9a84-2d78df46448d.jpeg)
 
 ![cartaPIKACHU](https://user-images.githubusercontent.com/91160075/145697816-83298b44-5577-4808-b32b-427462a289c4.jpg)
 
 ![cartaESCUAROL](https://user-images.githubusercontent.com/91160075/145697817-5ea26f91-69e0-4afe-88a8-9933f72afbf2.jpg)
 
-## Imagenes de la pared derecha
+# Imagenes de la pared derecha
 
 ![cartaGIBLE](https://user-images.githubusercontent.com/91160075/145697825-21bf3cef-cff8-4829-8a7f-a9569047fec4.png)
 
@@ -18,7 +18,7 @@
 
 ![cartaMEW](https://user-images.githubusercontent.com/91160075/145697838-d0c4ce29-5624-4a21-97bb-dc493e63076d.png)
 
-#Imagenes de la pared izquiera
+# Imagenes de la pared izquiera
 
 
 ![cartaIVI](https://user-images.githubusercontent.com/91160075/145697845-da7bb2d1-d269-4a66-a94d-528fba021157.png)
