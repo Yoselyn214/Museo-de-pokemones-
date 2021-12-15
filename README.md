@@ -110,7 +110,15 @@ de código:
 
 * 📸  Ahora le invitamos a un pequeño recorrido a nuestro museo por medio de una galería de fotos. ¡No se lo puede perder! 🤗
 
+
+![imagen 0](https://user-images.githubusercontent.com/91233193/146278820-7ba1f21e-87d7-45c6-9d34-03d4b58c5c9b.jpg)
+
+![imagen  1 oficial](https://user-images.githubusercontent.com/91233193/146278871-349c949f-bfbd-46b2-bd86-7293368a067c.png)
+
 ![imagen 1](https://user-images.githubusercontent.com/91233193/146277579-504b3452-9f6e-4547-b8c9-f9706d343604.jpg)
+
+![imgen 3](https://user-images.githubusercontent.com/91233193/146278887-be3b9512-5c3a-4e3f-b717-c424bca19052.png)
+
 
 
 
