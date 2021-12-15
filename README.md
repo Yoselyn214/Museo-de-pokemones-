@@ -5,7 +5,7 @@
 de pokemones, donde la persona que ejecute el programa podra observar los pokemones que hemos realizado a base de pixeles  en el espacio que hemos creado, es decir, un museo virtual.
 
 
-**🌈Las artistas y fundadoras del museo "POKEMON" son 🙌:**
+**🌈🙌Las artistas y fundadoras del museo "POKÉMON" son:**
 
       Miranda Chirinos, Yoselyn Victoria 
       Rojas Terrones, Janne Andrea 
@@ -72,7 +72,7 @@ de código:
       
       
       
-* 📂 *Las coordenadas de cada pokemon y personaje pixeleado han sido adjuntadas como archivos **.txt** en el README.md*
+* 📂 *Las coordenadas de cada pokémon y personaje pixeleado han sido adjuntadas como archivos **.txt** en el README.md*
 
 
 
