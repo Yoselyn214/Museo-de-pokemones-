@@ -98,6 +98,12 @@ de código:
   ```
   Luego deberas seleccionar la linea de código anterior ya que probablemente aparezca subrayado en rojo. Solo selecciona la línea y aparecerá una bombilla roja, donde   deberás seleccionar ```install FirstPersonController packages ``` y esperar que se instale y listo ya podrás hacer un recorrido por nuestro museo de pokemones.
   
+  Para poder avanzar en el museo:
+  * Avanza con la tecla W
+  * Retrocede con la tecla S
+  * Salta con la tecla espacio
+  
+  
     
 * 📂 *Las coordenadas de cada pokémon y personaje pixeleado han sido adjuntadas como archivos **.txt** en el README.md*
 
