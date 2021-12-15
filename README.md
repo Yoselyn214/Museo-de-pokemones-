@@ -96,13 +96,13 @@ de código:
   ```
    from ursina.prefabs.first_person_controller import FirstPersonController
   ```
-  Luego deberas seleccionar la linea de código anterior ya que probablemente aparezca subrayado en rojo. Solo selecciona la línea y aparecerá una bombilla roja, donde deberás seleccionar ```install FirstPersonController packages ``` y esperar que se instale y listo ya podrás hacer un recorrido por nuestro museo de pokemones.
+  Luego deberas seleccionar la linea de código anterior ya que probablemente aparezca subrayado en rojo. Solo selecciona la línea y aparecerá una bombilla roja, donde   deberás seleccionar ```install FirstPersonController packages ``` y esperar que se instale y listo ya podrás hacer un recorrido por nuestro museo de pokemones.
   
     
 * 📂 *Las coordenadas de cada pokémon y personaje pixeleado han sido adjuntadas como archivos **.txt** en el README.md*
 
 
-* 📸  Ahora le invitamos a un pequeño recorrido a nuestro museo por medio de una galería de fotos. ¡No se lo puedes perder! 🤗
+* 📸  Ahora le invitamos a un pequeño recorrido a nuestro museo por medio de una galería de fotos. ¡No se lo puede perder! 🤗
 
 
 
