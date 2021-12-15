@@ -105,11 +105,12 @@ de código:
   
   
     
-* 📂 *Las coordenadas de cada pokémon y personaje pixeleado han sido adjuntadas como archivos **.txt** en el README.md*
+* 📂 *Las coordenadas de cada pokémon y personaje pixeleado han sido adjuntadas como archivos **.txt** en el README.md, además el código completo esta como main1.py*
 
 
 * 📸  Ahora le invitamos a un pequeño recorrido a nuestro museo por medio de una galería de fotos. ¡No se lo puede perder! 🤗
 
+![imagen 1](https://user-images.githubusercontent.com/91233193/146277579-504b3452-9f6e-4547-b8c9-f9706d343604.jpg)
 
 
 
