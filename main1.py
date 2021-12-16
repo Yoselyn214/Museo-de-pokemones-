@@ -16,6 +16,11 @@ def input(key):
 platform = Entity(model="cube", collider="mesh",texture="piso", scale=(3000,10,3000), position=(0,-16,0))
 
 camera.ortographic = True
+
+Entity(model="cube", collider="mesh", texture="edificio izq", scale=250, position=(250, 250, 0))
+Entity(model="cube", collider="mesh", texture="edificio der", scale=250, position=(-250, 250, 0))
+
+
 Entity(model="cube", collider="mesh", texture="pared", scale=250,position=(250, 0, 0))#pared derecha
 Entity(model="cube", collider="mesh", texture="techo", scale=250,position=(0, 250, 0))#techo
 Entity(model="cube", collider="mesh", texture="pared", scale=250,position=(-250, 0, 0))# pared izquierda
