@@ -98,11 +98,15 @@ de código:
   ```
   Luego deberas seleccionar la linea de código anterior ya que probablemente aparezca subrayado en rojo. Solo selecciona la línea y aparecerá una bombilla roja, donde   deberás seleccionar ```install FirstPersonController packages ``` y esperar que se instale, no olvides que debes tener todas las imágenes adjuntas como .jpj - .png y obj. en tu archivo para poder visualizar el museo comleto y listo ya podrás hacer un recorrido por nuestro museo de pokemones.
   
-  Para poder avanzar en el museo:
+  Para poder movilizarte en el museo:
   * Avanza con la tecla W
   * Retrocede con la tecla S
   * Salta con la tecla espacio
+  * Muevete a la izquierda con la tecla A
+  * Muevete a la derecha con la tecla D
   
+  Para salir del juego:
+  * Presiona la tecla escape, se encuentra en la parte superior izquierda de tu teclado.
   
     
 * 📂 *Las coordenadas de cada pokémon y personaje pixeleado han sido adjuntadas como archivos **.txt** en el README.md, además el código completo esta como main1.py*
