@@ -37,6 +37,7 @@ de código:
      ```
       Entity(model="cube", scale=(80,25,0) , collider="mesh",texture="titulo",position=(5,50,0))
      ```
+
 * ✅ Cartas para la pared del frente (escala largo, ancho y fondo):
 
       Entity(model="cube", scale=(40,50,1), collider="mesh", texture="cartaCHARMENDAR", position=(77,20,120))
@@ -50,6 +51,12 @@ de código:
       Entity(model="cube", scale=(1,60,40), collider="mesh", texture="cartaCHIKORITA", position=(120,30,0))
       Entity(model="cube", scale=(1,60,40), collider="mesh", texture="cartaGARCHOMP", position=(120,30,50))
       Entity(model="cube", scale=(1,60,40), collider="mesh", texture="cartaMEW", position=(120,30,100))
+      
+ * ✅ Link para invertir las imagenes de la pared izquierda
+
+      https://www.img2go.com/es/rotate-image/editor#j=16dc0623-57ad-4869-ac71-75e6bc6cf2c0
+    
+    
 
 * ✅ Cartas para la pared de la izquierda:
 
