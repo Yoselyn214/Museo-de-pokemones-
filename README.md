@@ -96,7 +96,7 @@ de código:
   ```
    from ursina.prefabs.first_person_controller import FirstPersonController
   ```
-  Luego podrás usarlo en el código del museo con lo siguiente: ```install FirstPersonController packages ``` y darle algunos valores como _speed, position, scale_, no olvides que debes tener todas las imágenes adjuntas como .jpj - .png y obj. en tu archivo para poder visualizar el museo completo y listo ya podrás hacer un recorrido por nuestro museo de pokemones.
+  Luego podrás usarlo en el código del museo y darle algunos valores como _speed, position, scale_, no olvides que debes tener todas las imágenes adjuntas como .jpj - .png y obj. en tu archivo para poder visualizar el museo completo y listo ya podrás hacer un recorrido por nuestro museo de pokemones.
   
   Para poder movilizarte en el museo:
   * Avanza con la tecla W
