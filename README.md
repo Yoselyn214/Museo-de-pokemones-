@@ -59,7 +59,7 @@ de código:
       Entity(model="cube", scale=(1,60,40), collider="mesh", texture="cartaABSOL", position=(-120,30,50))
       Entity(model="cube", scale=(1,60,40), collider="mesh", texture="cartaRIOLU",´position=(-120,30,100))
       
-* ✅ Personajes y pokemones en 2-D:
+* ✅ Personajes y pokemones como imágenes:
      ```
       Entity(model="cube", scale=(15,25,0), collider="mesh", texture="Eevee", position=(50,0.5,60))
       Entity(model="cube", scale=(20,25,0), collider="mesh", texture="pokemon1", position=(-30,1,100))
