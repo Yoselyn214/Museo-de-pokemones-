@@ -45,12 +45,8 @@ Entity(model="cube", scale=(0,25,20) , collider="mesh",texture="pokemon7",positi
 Entity(model="cube", scale=(0,50,30) , collider="mesh",texture="misty",position=(-90,13,-85))
 Entity(model="cube", scale=(0,35,25) , collider="mesh",texture="pokemon8",position=(95,6,8))
 Entity(model="cube", scale=(20,25,0) , collider="mesh",texture="pokemon9",position=(30,50,-20))
-#otras cosas termina aqui
 
 
-
-
-'''cartas comienza aqui'''
 #escala ancho, largo y fondo
 
 #pared del frente
