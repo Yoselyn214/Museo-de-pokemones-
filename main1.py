@@ -1,21 +1,21 @@
-# Museo o lugar
 from ursina import *
-# controles del jugador
 from ursina.prefabs.first_person_controller import FirstPersonController
-# abre el programa
+
 app = Ursina()
-# speed es velocidad
+
 player = FirstPersonController(speed=60, position=(-80, 9, -240), scale=9)
-Sky()  # cielo
+Sky()
 
 def input(key):
     if key == 'escape':
-        quit()  # parar o detenerse
+        quit()
 
-#piso
-platform = Entity(model="cube", collider="mesh",texture="piso", scale=(3000,10,3000), position=(0,-16,0))
+# Piso
+ground = Entity(model='plane', texture='white_cube', scale=(100, 1, 100), collider='box')
+platform = Entity(model="cube", collider="mesh", texture="piso", scale=(3000, 10, 3000), position=(0, -16, 0))
 
-camera.ortographic = True
+app.run()
+
 
 Entity(model="cube", collider="mesh", texture="edificio izq", scale=250, position=(250, 250, 0))
 Entity(model="cube", collider="mesh", texture="edificio der", scale=250, position=(-250, 250, 0))
